@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Home",
   "base_artist": "Ayumu Imazu",
-  "createdAt": "2026-04-03T16:05:12.738437Z",
+  "createdAt": "2026-04-03T17:12:55.149531Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "Ayumu Imazu",
       "has_synced": false,
       "path": "select/pl_01_Home_Ayumu_Imazu.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Home",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/localdb_01_Home_Ayumu_Imazu.txt",
+      "repo_name": "Yz7hajIZEJE"
     }
   ]
 }
